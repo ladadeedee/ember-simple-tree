@@ -1,0 +1,1 @@
+{"version":3,"file":"x-tree-node-toggle.js","sources":["../../src/components/x-tree-node-toggle.js"],"sourcesContent":["import templateOnly from '@ember/component/template-only';\nexport default templateOnly();\n"],"names":["setComponentTemplate","TEMPLATE","templateOnly"],"mappings":";;;;;;AACA,sBAAAA,oBAAA,CAAAC,QAAA,EAAeC,YAAY,EAAE,CAAA;;;;"}
